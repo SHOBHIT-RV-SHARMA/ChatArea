@@ -1,8 +1,8 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<!-- ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY) -->
 
 Highlights:
 
@@ -12,10 +12,10 @@ Highlights:
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+<!-- - ⭐ At the end Deployment like a pro for FREE!
+- ⏳ And much more! -->
 
-### Setup .env file
+<!-- ### Setup .env file
 
 ```js
 MONGODB_URI=...
@@ -33,10 +33,10 @@ NODE_ENV=development
 
 ```shell
 npm run build
-```
+``` -->
 
-### Start the app
+<!-- ### Start the app
 
 ```shell
 npm start
-```
+``` -->
